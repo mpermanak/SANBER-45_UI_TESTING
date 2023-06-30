@@ -1,0 +1,19 @@
+{
+  "name": "sanber-45-ui_testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress run",
+    "open": "npx cypress open"
+  },
+  "keywords": [
+    "cypress"
+  ],
+  "author": "permana",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^12.15.0",
+    "dot-env": "^0.0.1"
+  }
+}
