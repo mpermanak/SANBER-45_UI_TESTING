@@ -1,6 +1,6 @@
 # SANBER-45_UI_TESTING
 
-How to Start:
+How to Start
 
 Install:
   1. Node JS -> npm install
